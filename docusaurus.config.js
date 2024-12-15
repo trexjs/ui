@@ -11,15 +11,15 @@ const config = {
   favicon: "img/rizz-favicon.svg",
 
   // Set the production url of your site here
-  url: "https://rizzui.com/",
+  url: "https://ui.xlox.in/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/ui/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "rizzui", // Usually your GitHub org/user name.
-  projectName: "rizzui", // Usually your repo name.
+  organizationName: "trexjs", // Usually your GitHub org/user name.
+  projectName: "ui", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
